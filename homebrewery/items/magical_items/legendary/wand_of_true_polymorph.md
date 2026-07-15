@@ -1,5 +1,5 @@
 #### Wand of True Polymorph
-*Wondrous Item, artifact*
+*Wondrous Item, legendary*
 :
 ![item](https://github.com/KoningBubo/dnd-resources/blob/main/images/items/magical_items/artifact/wand_of_true_polymorph.png?raw=true) {position:absolute,top:180px,left:400px,width:400px}
 Formed of a long, thin twig taken from an oak tree, this wand holds 1d4-1 charges of True Polymorph, with a minimum of 1.These can be cast by anybody with a spellcasting ability who has spent at least one hour attuning to the wand.
