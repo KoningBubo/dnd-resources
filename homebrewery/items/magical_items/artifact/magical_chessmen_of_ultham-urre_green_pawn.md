@@ -1,7 +1,7 @@
 #### Magical Chessmen of Ultham-Urre: Green Pawn
 *Wondrous Item, Artifact*
 :
-![magical chessmen of ultham-urre: green pawn](https://github.com/KoningBubo/dnd-resources/blob/main/images/items/magical_items/artifact/magical_chessmen_of_ultham-urre_green_pawn.png?raw=true) {position:absolute,top:0px,left:470px,width:270px}
+![magical chessmen of ultham-urre: green pawn](https://github.com/KoningBubo/dnd-resources/blob/main/images/items/magical_items/artifact/magical_chessmen_of_ultham-urre_green_pawn.png?raw=true) {position:absolute,top:0px,left:500px,width:200px}
 This artifact is part of a chessboard complete with 32 chess pieces with one set being red and the other being green representing people from Jasyntha.
 
 :
@@ -32,7 +32,7 @@ If during the session you spent time in a city, you roll with disadvantage. If y
 ## Green Pawn
 *Your size and race, your alignment*
 ___
-**Armor Class** :: 18 (chain mail, shield)
+**Armor Class** :: 19 (chain mail, shield)
 **Hit Points**  :: 28 (3d10 + 7)
 **Speed**       :: 30 ft.
 ___
@@ -46,8 +46,14 @@ ___
 
 ___
 
+***Second Wind.*** You can use a bonus action to regain 1d10 + 3 hit points.
+:
+***Action Surge.*** You take one additional action.
+:
+***Improved Critical.*** Your weapon attacks score a critical hit on a roll of 19 or 20.
+
 ### Actions
 ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1d8 + 4 slashing
 :
 ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, reach 30/120 ft., one target. *Hit:* 1d6 + 2 piercing
-}}{position:absolute,top:370px,left:430px,width:350px}
+}}{position:absolute,top:270px,left:430px,width:350px}
